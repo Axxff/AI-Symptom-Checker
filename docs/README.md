@@ -1,0 +1,2 @@
+# AI-Symptom-Checker
+AI-powered health assistant that helps users understand their symptoms and decide when to seek medical care. The system takes a list of symptoms entered by the user, analyzes them, and suggests possible conditions along with an urgency level (from mild to emergency). The goal of this project is not to replace doctors but to act as a first line of guidance, empowering people to make informed decisions about their health.
